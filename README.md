@@ -38,11 +38,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Matecode22&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
 </p>
 
+
 ---
 
 ### 📈 Actividad reciente
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Matecode22&theme=github-dark&hide_border=true" alt="Gráfico de actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matecode22&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Gráfico de actividad de GitHub" />
 </p>
+
 
  
